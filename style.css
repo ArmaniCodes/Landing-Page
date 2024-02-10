@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
 body{
     display: flex;
     flex-direction: column;
     margin:0;
+    font-family: 'Inter';
+    
 }
 
 
@@ -14,6 +18,14 @@ background-color: #1F2937;
 .Header{
     display: flex;
     justify-content: space-around;
+
+}
+
+.headerLogo{
+    color: #F9FAF8;
+    font-size: 18px;
+    align-items: center;
+    font-weight: 500;
 }
 
 .headerLinks ul{

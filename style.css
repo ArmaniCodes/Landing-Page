@@ -8,3 +8,14 @@ body{
 background-color: #1F2937;
 
 }
+
+
+.Header{
+    display: flex;
+}
+
+.headerLinks ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}

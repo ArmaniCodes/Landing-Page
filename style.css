@@ -12,10 +12,12 @@ background-color: #1F2937;
 
 .Header{
     display: flex;
+    justify-content: space-around;
 }
 
 .headerLinks ul{
     display: flex;
     list-style: none;
+    justify-content: space-around;
     gap: 15px;
 }

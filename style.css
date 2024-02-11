@@ -6,7 +6,8 @@ body{
     height: 100vh;
     margin:0;
     font-family: 'Inter';
-    justify-content: space-between;
+    
+   
 }
 
 /* 1st Middle Section/Header */ 
@@ -94,6 +95,19 @@ background-color: #1F2937;
 /* last Section */ 
 
 .lastSection{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* second last Section*/
+.nextLastSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blueBox{
     display: flex;
     flex-direction: column;
 }

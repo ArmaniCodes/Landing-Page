@@ -18,19 +18,28 @@ background-color: #1F2937;
 .Header{
     display: flex;
     justify-content: space-around;
-
+    align-items: center;
 }
 
+
 .headerLogo{
+    display: flex;
     color: #F9FAF8;
     font-size: 18px;
     align-items: center;
     font-weight: 500;
+    gap: 10px;
 }
+
+
 
 .headerLinks ul{
     display: flex;
     list-style: none;
     justify-content: space-around;
+    align-items: center;
     gap: 15px;
+
+    color:#E5E7EB;
+    font-size:14px;
 }

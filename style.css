@@ -78,8 +78,8 @@ background-color: #1F2937;
 
 
 .middleText{
-    font-size: 14px;
-    font-weight: bolder;
+    font-size: 16px;
+    
     color: #E5E7EB;
     max-width: 320px;
     margin-top: -25px;
@@ -226,5 +226,6 @@ background-color: #1F2937;
     
     align-items: center;
     justify-content: center;
-
+    color: white;
+    padding: 25px;
 }

@@ -109,6 +109,11 @@ background-color: #1F2937;
     
 } 
 
+.rightImage{
+    border: black solid 2px;
+}
+
+
 /* last Section */ 
 
 .lastSection{

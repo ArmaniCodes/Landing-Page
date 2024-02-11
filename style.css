@@ -78,12 +78,21 @@ background-color: #1F2937;
 
 
 .middleText{
-    font-size: 12px;
+    font-size: 13px;
     font-weight: bolder;
     color: #E5E7EB;
     max-width: 320px;
     margin-top: -25px;
     
+}
+
+.middleButton{
+    background-color: #3882F6;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 6px 25px;
+    border: black solid 1px;
 }
 
 /* 2nd Middle Section */ 

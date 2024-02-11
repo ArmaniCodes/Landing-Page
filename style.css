@@ -126,8 +126,8 @@ background-color: #1F2937;
 }
 
 .imageIllus img{
-    height: 200px; 
-    width: auto;
+    height: 250px; 
+    max-width: 400px;
     border-radius: 15px;
     border: #3882F6 solid 3px;
 } 
@@ -135,7 +135,7 @@ background-color: #1F2937;
 .imageIllus p{
    text-align: center;
    font-size: 13px;
-   max-width: 150px;
+   max-width: 200px;
 } 
 
 .rightImage{

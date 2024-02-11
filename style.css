@@ -8,6 +8,7 @@ body{
     
 }
 
+/* 1st Middle Section/Header */ 
 
 .darkBackGround{
 background-color: #1F2937;
@@ -30,8 +31,6 @@ background-color: #1F2937;
     font-weight: 500;
     gap: 10px;
 }
-
-
 
 .headerLinks ul{
     display: flex;
@@ -65,3 +64,25 @@ background-color: #1F2937;
     color: #E5E7EB;
 }
 
+/* 2nd Middle Section */ 
+
+.nextMiddle{
+    display: flex;
+    flex-direction: column;
+}
+
+.nextMiddleImages{
+    display: flex;
+}
+
+.imageIllus{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.imageIllus img{
+    height: 150px; 
+    width: 150px;
+    
+} 

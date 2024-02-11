@@ -100,6 +100,14 @@ background-color: #1F2937;
 .nextMiddle{
     display: flex;
     flex-direction: column;
+    
+
+}
+
+.infoHeader{
+    color: #1F2937;
+    font-weight: bolder;
+   
 }
 
 .nextMiddleImages{

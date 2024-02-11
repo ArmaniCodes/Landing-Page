@@ -43,3 +43,25 @@ background-color: #1F2937;
     color:#E5E7EB;
     font-size:14px;
 }
+
+.middle{
+    display: flex;
+}
+
+.leftMiddle{
+    display: flex;
+    flex-direction: column;
+}
+
+.middleHeader{
+    font-size: 42px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.middleText{
+    font-size: 12px;
+    font-weight: bolder;
+    color: #E5E7EB;
+}
+

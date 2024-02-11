@@ -37,13 +37,8 @@ background-color: #1F2937;
 
 .headerLinks ul{
     display: flex;
-    list-style: none;
-  
-
     gap: 15px;
-
-    color:#E5E7EB;
-    font-size:15px;
+    font-size:14px;
 }
 
 

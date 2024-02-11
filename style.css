@@ -6,7 +6,7 @@ body{
     height: 100vh;
     margin:0;
     font-family: 'Inter';
-    
+ 
    
 }
 
@@ -110,4 +110,13 @@ background-color: #1F2937;
 .blueBox{
     display: flex;
     flex-direction: column;
+}
+
+
+/*Footer*/
+
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

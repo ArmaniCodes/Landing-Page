@@ -3,9 +3,10 @@
 body{
     display: flex;
     flex-direction: column;
+    height: 100vh;
     margin:0;
     font-family: 'Inter';
-    
+    justify-content: space-between;
 }
 
 /* 1st Middle Section/Header */ 
@@ -35,7 +36,7 @@ background-color: #1F2937;
 .headerLinks ul{
     display: flex;
     list-style: none;
-    justify-content: space-around;
+  
     align-items: center;
     gap: 15px;
 
@@ -45,6 +46,8 @@ background-color: #1F2937;
 
 .middle{
     display: flex;
+    justify-content: center;
+    gap: 100px;
 }
 
 .leftMiddle{
@@ -53,9 +56,10 @@ background-color: #1F2937;
 }
 
 .middleHeader{
-    font-size: 42px;
+    font-size: 32px;
     font-weight: bolder;
     color: #F9FAF8;
+    text-wrap:pretty;
 }
 
 .middleText{
@@ -86,3 +90,10 @@ background-color: #1F2937;
     width: 150px;
     
 } 
+
+/* last Section */ 
+
+.lastSection{
+    display: flex;
+    flex-direction: column;
+}

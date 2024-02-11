@@ -115,17 +115,19 @@ background-color: #1F2937;
     display: flex;
     gap: 40px;
     flex-wrap: wrap;
+    
 }
 
 .imageIllus{
     display: flex;
     flex-direction: column;
-  
+    justify-content: center;
+    align-items: center;
 }
 
 .imageIllus img{
-    height: 150px; 
-    width: 150px;
+    height: 200px; 
+    width: auto;
     border-radius: 15px;
     border: #3882F6 solid 3px;
 } 
